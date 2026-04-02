@@ -43,10 +43,10 @@ Resultados e Insights
 ```
  project/
 │
-├── L1_BigData.ipynb
-├── L2_SparkConfig.ipynb
-├── L3_RDD.ipynb
-├── L4_DataFrames_SQL.ipynb
+├── L1_FundamentosBigData.ipynb
+├── L2_ApacheSpark.ipynb
+├── L3_ElementosSpark.ipynb
+├── L4_ProcesamientoEstructurado.ipynb
 ├── L5_SparkMLlib.ipynb
 │
 ├── data/
@@ -184,7 +184,7 @@ Se logró:
 
 ---
 
-##  Autor
+##  Jeanette Zenteno
 
 Proyecto desarrollado como parte del módulo de Big Data y Machine Learning.
 
